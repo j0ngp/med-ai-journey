@@ -1,3 +1,13 @@
 .ipynb_checkpoints/
 __pycache__/
 .DS_Store
+
+# 练习时产生的临时文件（不入库，保持仓库干净）
+week2/note.txt
+week2/note2.txt
+week2/intro.txt
+week2/symptoms.txt
+week2/patient.json
+week2/patient2.json
+week2/patients.csv
+week2/patients2.csv

@@ -13,3 +13,8 @@ week2/patients.csv
 week2/patients2.csv
 week5/KUAKE-QIC/
 week5/CHIP-CTC/
+
+# 密钥/环境变量（绝不入库，防泄露）
+api_key.txt
+.env
+*.key
